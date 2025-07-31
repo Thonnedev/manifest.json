@@ -1,0 +1,14 @@
+{
+    "name": "extension format action",
+    // Add valid JSON here or remove this line
+    "action": {
+      "default_icon": {              // optional
+        "16": "images/icon16.png",   // optional
+        "24": "images/icon24.png",   // optional
+        "32": "images/icon32.png"    // optional
+      },
+      "default_title": "Click Me",   // optional, shown in tooltip
+      "default_popup": "popup.html"  // optional
+    },
+    // Add valid JSON here or remove this line
+  }
